@@ -1,11 +1,12 @@
+
 import './App.css';
-import Header from './Header';
+import Header from '../Header/Header';
 
 function App() {
   return (
     <div className="app">
       {/* Header */}
-      <Header />
+      <Header/>
       {/* CenterCards */}
       {/* SwipeButtons */}
     </div>

@@ -15,7 +15,7 @@ function Header() {
                 <PetsIcon fontSize="large" className="header__logo"/>
             </IconButton>
             <IconButton>
-                <ForumIcon fontSize="large" className="header__icon"/>
+                <ForumIcon fontSize="large" className="header__icon" />
             </IconButton>
         </div>
     )
