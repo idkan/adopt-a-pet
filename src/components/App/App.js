@@ -1,6 +1,7 @@
 
 import './App.css';
 import Header from '../Header/Header';
+import Cards from '../Cards/Cards';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       {/* Header */}
       <Header/>
       {/* CenterCards */}
+      <Cards/>
       {/* SwipeButtons */}
     </div>
   );
